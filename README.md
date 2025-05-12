@@ -1,2 +1,2 @@
-# Battery-Monitoring-System
 Designed a battery monitoring system using ESP8266, TP4056, and DHT22, programmed in C to measure voltage, temperature, and charging status with real-time display on OLED and Arduino Cloud integration via HTTP and MQTT protocols.
+Implemented analog signal acquisition through voltage divider, sensor interfacing using I2C and digital protocols, and cloud communication using Wi-Fi with focus on low-power embedded system design and IoT connectivity.
